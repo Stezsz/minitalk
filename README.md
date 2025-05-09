@@ -65,6 +65,6 @@ It strengthens your understanding of signals, bit manipulation, and process beha
 
 ---
 
-> ✅ **Final Grade: 100/100**
+> ✅ **Final Grade: 115/100**
 > Project made at [42 Lisboa](https://www.42lisboa.com/pt/)
 > 👤 Author: Stephan Rodrigues Lassaponari ([@Stezsz](https://github.com/Stezsz))
